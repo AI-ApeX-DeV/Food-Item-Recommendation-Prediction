@@ -1,1 +1,1 @@
-# Food-Item-Recommendation-Prediction.
+# Food-Item-Recommendation-Prediction
